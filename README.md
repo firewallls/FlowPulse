@@ -2,7 +2,7 @@
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
+- Vite
 - TypeScript
 - Liveblocks
 - Fabric.js
